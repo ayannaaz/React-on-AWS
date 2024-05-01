@@ -1,6 +1,6 @@
 import React from "react";
 
-const Header = () => {
+const Map = () => {
     return(
         <h1> Map </h1>
     );
